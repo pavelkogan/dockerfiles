@@ -1,0 +1,28 @@
+name:                project
+build-type:          Simple
+cabal-version:       >=1.10
+
+executable project
+  main-is:             Main.hs
+  build-depends:       base >=4.7 && <4.8
+                     , aeson
+                     , async
+                     , basic-prelude
+                     , blaze-builder
+                     , bytestring
+                     , case-insensitive
+                     , configurator
+                     , containers
+                     , friday
+                     , friday-devil
+                     , http-conduit
+                     , http-types
+                     , safe
+                     , stm
+                     , text
+                     , transformers
+                     , unordered-containers
+                     , vector
+                     , webdriver
+                     , xml-conduit
+  default-language:    Haskell2010
