@@ -13,10 +13,19 @@ executable project
                      , case-insensitive
                      , configurator
                      , containers
+                     , data-default
+                     , ekg
+                     , ekg-core
+                     , errors
                      , friday
                      , friday-devil
+                     , hsdns-cache
+                     , http-client
                      , http-conduit
+                     , http-conduit-downloader
                      , http-types
+                     , mtl
+                     , random
                      , safe
                      , stm
                      , text
