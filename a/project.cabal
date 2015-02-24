@@ -27,6 +27,7 @@ executable project
                      , mtl
                      , random
                      , safe
+                     , scotty
                      , stm
                      , text
                      , transformers
