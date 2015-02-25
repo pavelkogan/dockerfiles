@@ -13,9 +13,11 @@ executable project
                      , case-insensitive
                      , configurator
                      , containers
+                     , criterion
                      , data-default
                      , ekg
                      , ekg-core
+                     , ekg-log
                      , errors
                      , friday
                      , friday-devil
