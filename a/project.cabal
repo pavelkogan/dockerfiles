@@ -22,6 +22,7 @@ executable project
                      , friday
                      , friday-devil
                      , hsdns-cache
+                     , hslogger
                      , http-client
                      , http-conduit
                      , http-conduit-downloader
